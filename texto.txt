@@ -1,1 +1,2 @@
 Hello world! Alterando arquivos ao mesmo tempo.
+Hello world! Hello Brazil!
